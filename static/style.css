@@ -4,6 +4,10 @@ body{
     margin: 0;
 }
 
+h1 {
+    color: red;
+}
+
 .container{
     background-image: url("img/bg.png");
     background-size: cover;
